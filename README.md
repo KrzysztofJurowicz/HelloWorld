@@ -1,2 +1,2 @@
 HelloWorld
-Oto program przedstawiajac ynapsi w konsoli HelloWorld.
+Oto program przedstawiajacy napsi w konsoli HelloWorld.
